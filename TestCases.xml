@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Demoblaze_Practice" >
+    <test name="Tests">
+        <classes>
+            <class name="Tests.Register" />
+            <class name="Tests.Login" />
+            <class name="Tests.Categories"/>
+        </classes>
+    </test>
+</suite>
