@@ -26,6 +26,19 @@
       <version>7.9.0</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>io.qameta.allure</groupId>
+      <artifactId>allure-testng</artifactId>
+      <version>2.29.1</version>  <!-- تأكد من استخدام أحدث نسخة -->
+      <scope>test</scope>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/io.qameta.allure/allure-java-commons -->
+    <dependency>
+      <groupId>io.qameta.allure</groupId>
+      <artifactId>allure-java-commons</artifactId>
+      <version>2.29.1</version>
+    </dependency>
+
 
   </dependencies>
 </project>
